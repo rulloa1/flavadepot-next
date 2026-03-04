@@ -1,0 +1,51 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/c2c53_next_dist_compiled_e0e3c681._.js",
+      "static/chunks/c2c53_next_dist_shared_lib_e593baae._.js",
+      "static/chunks/c2c53_next_dist_client_6fec0226._.js",
+      "static/chunks/c2c53_next_dist_4765fc53._.js",
+      "static/chunks/c2c53_next_app_58a603d2.js",
+      "static/chunks/[next]_entry_page-loader_ts_ff8a3613._.js",
+      "static/chunks/c2c53_react-dom_e156f37e._.js",
+      "static/chunks/c2c53_4764b054._.js",
+      "static/chunks/[root-of-the-server]__2d61608b._.js",
+      "static/chunks/flavadepot-next_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-flavadepot-next_pages__app_e05c562e._.js"
+    ],
+    "/_error": [
+      "static/chunks/c2c53_next_dist_compiled_e0e3c681._.js",
+      "static/chunks/c2c53_next_dist_shared_lib_eecc0a5a._.js",
+      "static/chunks/c2c53_next_dist_client_6fec0226._.js",
+      "static/chunks/c2c53_next_dist_e1bb6e31._.js",
+      "static/chunks/c2c53_next_error_d7abbb31.js",
+      "static/chunks/[next]_entry_page-loader_ts_7ceb869b._.js",
+      "static/chunks/c2c53_react-dom_e156f37e._.js",
+      "static/chunks/c2c53_4764b054._.js",
+      "static/chunks/[root-of-the-server]__4cc48e6f._.js",
+      "static/chunks/flavadepot-next_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-flavadepot-next_pages__error_c3aafc9c._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/c2c53_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_52bc20c1._.js",
+    "static/chunks/c2c53_next_dist_compiled_react-dom_af0b824f._.js",
+    "static/chunks/c2c53_next_dist_compiled_react-server-dom-turbopack_406e26c0._.js",
+    "static/chunks/c2c53_next_dist_compiled_next-devtools_index_e6ecdb3d.js",
+    "static/chunks/c2c53_next_dist_compiled_cd2e7f38._.js",
+    "static/chunks/c2c53_next_dist_client_726eddeb._.js",
+    "static/chunks/c2c53_next_dist_482ac820._.js",
+    "static/chunks/c2c53_@swc_helpers_cjs_4835e22c._.js",
+    "static/chunks/flavadepot-next_a0ff3932._.js",
+    "static/chunks/turbopack-flavadepot-next_b4b8f97f._.js"
+  ]
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];

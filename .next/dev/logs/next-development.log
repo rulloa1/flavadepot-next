@@ -1,0 +1,62 @@
+[00:00:04.012] Server  LOG     ✓ Ready in 2.8s
+[00:00:04.467] Server  ERROR   ⨯ ./flavadepot-next/app/page.tsx:1:1
+Module not found: Can't resolve '@/data/businesses'
+> 1 | import { businesses } from "@/data/businesses"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { notFound } from "next/navigation"
+  3 |
+  4 | type Props = {
+
+Import map: aliased to relative './data/businesses' inside of [project]/flavadepot-next
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:07.279] Browser ERROR   uncaughtError: Error: ./flavadepot-next/app/page.tsx:1:1
+Module not found: Can't resolve '@/data/businesses'
+> 1 | import { businesses } from "@/data/businesses"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { notFound } from "next/navigation"
+  3 |
+  4 | type Props = {
+
+Import map: aliased to relative './data/businesses' inside of [project]/flavadepot-next
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:08.975] Browser ERROR   ./flavadepot-next/app/page.tsx:1:1
+Module not found: Can't resolve '@/data/businesses'
+> 1 | import { businesses } from "@/data/businesses"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { notFound } from "next/navigation"
+  3 |
+  4 | type Props = {
+
+Import map: aliased to relative './data/businesses' inside of [project]/flavadepot-next
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:08.975] Browser ERROR   ./flavadepot-next/app/page.tsx:1:1
+Module not found: Can't resolve '@/data/businesses'
+> 1 | import { businesses } from "@/data/businesses"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { notFound } from "next/navigation"
+  3 |
+  4 | type Props = {
+
+Import map: aliased to relative './data/businesses' inside of [project]/flavadepot-next
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:37.415] Browser ERROR   ./flavadepot-next/app/page.tsx:1:1
+Module not found: Can't resolve '@/data/businesses'
+> 1 | import { businesses } from "@/data/businesses"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { notFound } from "next/navigation"
+  3 |
+  4 | type Props = {
+
+Import map: aliased to relative './data/businesses' inside of [project]/flavadepot-next
+
+https://nextjs.org/docs/messages/module-not-found
