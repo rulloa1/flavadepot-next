@@ -1,0 +1,12 @@
+export const businesses = [
+  {
+    title: "TEXAN SMOKE SHOP",
+    slug: "texan-smoke-shop",
+    city: "houston",
+    state: "texas",
+    street: "1822 N Main St d",
+    totalScore: 5,
+    reviewsCount: 716,
+    phone: "(713) 993-6616",
+  },
+]
